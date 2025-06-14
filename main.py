@@ -7,7 +7,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes, MessageHandler, filters
 
 # === Bot Configuration ===
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8189516949:AAHzhcuZJWVBn8UqCF7KZXOHjpKxX3AS3T8"
 CHANNEL_LINKS = {
     "Join Channel 1": "https://t.me/proof_sharex",
     "Join Channel 2": "https://t.me/daily_earning_trick_users",
